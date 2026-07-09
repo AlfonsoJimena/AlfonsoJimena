@@ -28,3 +28,28 @@ Servidor web tipo foro desarrollado con Flask y una base de datos PostgreSQL, co
 | Herramientas | Docker, Kubernetes, Prometheus, Grafana, PostgreSQL, MongoDB, Git, GitHub |
 | Backend / Web | Flask, HTML, CSS |
 | Sistemas embebidos | STM32 |
+
+---
+
+### About me
+
+Data Engineering student at the Escuela Técnica Superior de Ingenieros de Telecomunicación (ETSIT), Universidad Politécnica de Madrid (UPM). I'm interested in data analysis and exploitation, cloud systems, machine learning, and everything related to the data lifecycle.
+
+### Projects
+
+**[EvolucionSalariosEsp](https://github.com/AlfonsoJimena/EvolucionSalariosEsp)**
+Analysis and exploitation of salary evolution datasets in Spain, using data from Spain's National Statistics Institute (INE). Final project for the Big Data Programming course.
+`Jupyter Notebook` · `Python` · `Pandas`
+
+**[ForoMX5-Flask-y-PostgreSQL](https://github.com/AlfonsoJimena/ForoMX5-Flask-y-PostgreSQL)**
+Forum-style web server built with Flask and a PostgreSQL database, developed as coursework for Web Technologies.
+`Python` · `Flask` · `PostgreSQL`
+
+### Tech stack
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, SQL |
+| Tools | Docker, Kubernetes, Prometheus, Grafana, PostgreSQL, MongoDB, Git, GitHub |
+| Backend / Web | Flask, HTML, CSS |
+| Embedded systems | STM32 |
