@@ -13,8 +13,8 @@
 
 ## Sobre mí
 
-- Estudiante del Grado en **Ingeniería de Datos** en la **UPM** — **ETSIT** (Madrid)
-- Interesado en el **análisis y explotación de datos**, sistemas cloud y aprendizaje automático
+- Estudiante del Grado en **Ingeniería y Sistemas de Datos (Ingeniería de Datos)** en la **UPM** — **ETSIT** (Madrid)
+- Interesado en el **análisis y explotación de datos, sistemas cloud y aprendizaje automático**
 - Proyectos de análisis de datos con **Python** y **Pandas**, y desarrollo web con **Flask** y **PostgreSQL**
 - Todo lo relacionado con el **ciclo de vida del dato**
 
