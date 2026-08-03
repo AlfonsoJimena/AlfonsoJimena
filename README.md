@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a1a2e,100:c9a227&text=Alfonso&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Data%20Engineering&descAlignY=68&descSize=22&fontFamily=Helvetica" width="100%"/>
+<img src="assets/banner.gif" width="100%"/>
 
 <br/>
 
