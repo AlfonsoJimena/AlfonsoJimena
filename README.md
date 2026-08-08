@@ -43,7 +43,7 @@ Servidor web tipo foro desarrollado con Flask y una base de datos PostgreSQL, co
 #### Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 #### Cloud & DevOps
 
@@ -58,6 +58,7 @@ Servidor web tipo foro desarrollado con Flask y una base de datos PostgreSQL, co
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SPARQL / RDF](https://img.shields.io/badge/SPARQL%20%2F%20RDF-0C479C?style=for-the-badge)
 
 #### Backend / Web
 
