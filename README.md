@@ -24,10 +24,11 @@
 ## Proyectos
 
 **[Word2VecWithNumpy](https://github.com/AlfonsoJimena/Word2VecWithNumpy)**
-Implementación algorítmica desde cero del modelo Word2Vec (arquitectura CBOW con negative sampling) utilizando exclusivamente NumPy. Proyecto de aprendizaje e ingeniería inversa para comprender el cálculo tensorial, la actualización de gradientes y la optimización de memoria sin depender de frameworks de deep learning.
+Implementación algorítmica desde cero del modelo Word2Vec (arquitectura CBOW con negative sampling) utilizando exclusivamente NumPy. Proyecto de aprendizaje y deconstrucción para comprender el cálculo tensorial, la actualización de gradientes y la optimización de memoria sin depender de frameworks de deep learning. El proyecto surgió originalmente de un take-home-test de JetBrains, y decidí expandirlo para profundizar en las matemáticas del modelo y optimizarlo sin frameworks de terceros. Además, utilizo el repositorio para aplicar flujos de trabajo profesionales de ingeniería de software (GitHub Actions, Pull Requests, gestión de Issues).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **[EvolucionSalariosEsp](https://github.com/AlfonsoJimena/EvolucionSalariosEsp)**
 Análisis y explotación de datos sobre la evolución salarial en España, a partir de conjuntos de datos del Instituto Nacional de Estadística (INE). Práctica final de la asignatura de Programación para Big Data.
@@ -75,6 +76,6 @@ Servidor web tipo foro desarrollado con Flask y una base de datos PostgreSQL, co
 
 #### Sistemas embebidos
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-03234B?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
